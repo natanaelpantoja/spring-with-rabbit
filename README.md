@@ -8,7 +8,7 @@ RabbitMQ Instalation
 	
 mvn eclipse:eclipse
 
-Protocolo - amqp (Para entender melhor do protocolo - http://es.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
+Protocolo - amqp (Para entender melhor do protocolo - http://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 User no RabbitMQ - natanaelpantoja
 Password - 1234
 virtual host - portal (Eu criei um usuário e um virtual host para testar mas o default do RabbitMQ é guest guest) 
