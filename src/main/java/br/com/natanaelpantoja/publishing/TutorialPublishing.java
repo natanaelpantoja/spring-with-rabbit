@@ -21,7 +21,7 @@ public class TutorialPublishing {
 		
 		channel.queueDeclare("fila", true, false, false, null);
 		
-		for(int i = 0; i < 1000000; i++) {
+		for(int i = 0; i < 10000000; i++) {
 			String messageBodyBytes = "Teste de MSG Pantoja "+i;
 			channel.basicPublish("", "fila", null, messageBodyBytes.getBytes());
 		}

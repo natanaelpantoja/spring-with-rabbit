@@ -14,3 +14,8 @@ Password - 1234
 virtual host - portal (Eu criei um usuário e um virtual host para testar mas o default do RabbitMQ é guest guest) 
 url: factory.setUri("amqp://natanaelpantoja:1234@localhost/portal");
 
+URL do admin do RabbitMQ http://localhost:15672/
+
+CTRL Panel Documentation: http://www.rabbitmq.com/man/rabbitmqctl.1.man.html
+
+http://www.rabbitmq.com/install-standalone-mac.html
