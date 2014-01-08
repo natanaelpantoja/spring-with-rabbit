@@ -19,3 +19,5 @@ URL do admin do RabbitMQ http://localhost:15672/
 CTRL Panel Documentation: http://www.rabbitmq.com/man/rabbitmqctl.1.man.html
 
 http://www.rabbitmq.com/install-standalone-mac.html
+
+install dir: /usr/local/Cellar/rabbitmq/3.2.2/sbin]
